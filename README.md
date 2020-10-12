@@ -51,6 +51,7 @@ caches statistics for your repositories. For more information, see issue
 [#2](https://github.com/jstrieb/github-stats/issues/2) and
 [#3](https://github.com/jstrieb/github-stats/issues/3).
 
+
 # Installation
 
 <!-- TODO: Add details and screenshots -->
